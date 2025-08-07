@@ -5,4 +5,4 @@ AICTE Email: abhishikta10pal@gmail.com
 SkillsBuild Email: abhishikta10pal@gmail.com  
 Phone: 9650954032 
 AICTE Student ID: STU67e9533dcd1ef1743344445
-AICTE Internship ID: INTERNSHIP_1746416864681834e0e35d8
+Internship ID:  INTERNSHIP_1748937226683eaa0a58abc
